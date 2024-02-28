@@ -610,7 +610,7 @@ img,
 .Children-Care-list .list-item:hover>h6>a {color: #fff;}
 /*======================== Banner Bottom Section ====================*/
 .banner-bottom-section {
-	background: url(../images/home/bg-img-1.jpg) no-repeat center;
+	background: url(../images/_woman.jpg) no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 }
